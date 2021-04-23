@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303605708484",
+    "project_id": "fchat-c793c",
+    "storage_bucket": "fchat-c793c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303605708484:android:82b9d9ce384f3615eebb91",
+        "android_client_info": {
+          "package_name": "com.snowflake.fchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303605708484-ogqru81dit4s0e10qh4rblqkcunl4ckk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNh6UCDrNHufP_hUYFwPAJ29JT_jTRwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303605708484-ogqru81dit4s0e10qh4rblqkcunl4ckk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
